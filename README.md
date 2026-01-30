@@ -82,7 +82,7 @@ This will generate `tye_simulation_results.png`, visualizing the currents, phase
 
 ---
 *Authored by the Love-OS Project.*
-git clone [https://github.com/your-username/tantric-yoga-engineering.git](https://github.com/your-username/tantric-yoga-engineering.git)
+git clone [https://github.com/love-os-architect/tantric-yoga-engineering.git](https://github.com/your-username/tantric-yoga-engineering.git)
 
 # Run the simulation
 python tantric_yoga_engine.py
