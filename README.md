@@ -69,3 +69,20 @@ git clone [https://github.com/your-username/tantric-yoga-engineering.git](https:
 
 # Run the simulation
 python tantric_yoga_engine.py
+```
+
+This will generate `tye_simulation_results.png`, visualizing the currents, phase alignment, and safety metrics over time.
+
+## ⚠️ Disclaimer
+
+**This is a theoretical model for intellectual and engineering exploration.**
+* **Not Medical Advice:** This code does not replace medical diagnosis.
+* **Safety First:** High-voltage practices (Pranayama/Kundalini) without reducing Resistance (Body Armor) can lead to **"System Burnout" (Psychosis/Injury)**. 
+* **The First Law of TYE:** Always ensure **Safety (Relaxation)** before boosting Voltage.
+
+---
+*Authored by the Love-OS Project.*
+git clone [https://github.com/your-username/tantric-yoga-engineering.git](https://github.com/your-username/tantric-yoga-engineering.git)
+
+# Run the simulation
+python tantric_yoga_engine.py
