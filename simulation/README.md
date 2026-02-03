@@ -26,3 +26,5 @@ The core logic relies on a **Dynamic Exchange Rate Model**.
 
 ## 4. Usage
 Run the Jupyter Notebook `awakening_sim.ipynb` to witness the physics of "Trusting the Process."
+
+https://github.com/love-os-architect/love-os-gravity
