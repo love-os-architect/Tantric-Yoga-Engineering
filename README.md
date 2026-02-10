@@ -60,6 +60,7 @@ The included `tantric_yoga_engine.py` simulates the interaction between two bio-
 
 ### Scenario B: Low Compatibility
 * Even with low resistance, if $S_{gate}$ is low, Mutual Inductance ($M$) remains zero. No resonance.
+* 
 
 ## 🚀 Usage
 
@@ -72,6 +73,31 @@ python tantric_yoga_engine.py
 ```
 
 This will generate `tye_simulation_results.png`, visualizing the currents, phase alignment, and safety metrics over time.
+
+# Love-OS: The Non-linear Physics of Presence and Resonance
+
+## 🌌 Overview
+Love-OS is a conceptual engineering framework that models human integration and resonance through the lens of non-linear physics. It shifts the paradigm from "A-side" (Quick Forcing/Ego-driven) to "B-side" (Ripening/Presence-driven). 
+
+Based on 17 years of somatic practice (Yoga/Stretching) and the logic of aromatic rice cultivation (Hieri/Late-ripening), this model demonstrates why silence and "waiting" are not passive, but active engineering processes for maximum magnetic attraction.
+
+## 🧪 The Core Equation
+The Integration Force ($F$) is determined by a combination of static conditioners and a non-linear phase transition trigger:
+
+$$F(Q,R,\Delta\phi) = \text{Hill}(Q) \cdot \text{Suppress}(R) \cdot \left(\frac{1+\cos\Delta\phi}{2}\right)^\alpha \cdot \text{softplus}(w_Q Q - w_R R - w_\phi |\Delta\phi| - \theta)$$
+
+### Parameters:
+* **$Q$ (Quietness/Silence):** The signal-to-noise ratio. High $Q$ allows for precise observation of the "source".
+* **$R$ (Resistance):** The "ego-friction" or structural rigidity. Lowering $R$ is equivalent to "Hamo Bone-cutting"—unbinding resistance without destroying the self.
+* **$\Delta\phi$ (Phase Gap):** The vibrational misalignment between two systems or a system and the Universe.
+* **$\theta$ (Threshold):** The critical energy level required for a phase transition (Awakening).
+
+## 📈 The Two Strategies
+1.  **A-side (Quick Forcing):** High resistance ($R$), low silence ($Q$), and unstable phase alignment. Energy is lost as "heat" (friction/agitation), preventing the system from ever hitting the threshold $\theta$.
+2.  **B-side (Ripening):** Low resistance through "bone-cutting," high silence ($Q$), and precise phase alignment ($\Delta\phi \to 0$). This leads to a non-linear "explosion" of integration force $F$.
+
+## 🛠 Usage
+Run the provided Python script to visualize the divergence between these two paths. You will see how B-side ripening achieves nearly **9x higher peak integration** compared to ego-driven forcing.
 
 ## ⚠️ Disclaimer
 
